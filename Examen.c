@@ -2,7 +2,6 @@
 Examen */
 
 #include <stdio.h>
-#include <stdlib.h>
 
 #define MAX_OYENTES 100
 #define NUM_CANCIONES 10
